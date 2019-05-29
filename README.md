@@ -1,4 +1,6 @@
-# deepdream
+# deepdream in python 3
+
+# Original README.md from https://github.com/google/deepdream
 
 This repository contains IPython Notebook with sample code, complementing 
 Google Research [blog post](http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html) about Neural Network art.
