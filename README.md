@@ -1,6 +1,10 @@
 # deepdream in python 3
+```
+In Python 3: dream_py3.ipynb
+With OpenCV: dream_cv.py
+```
 
-# Original README.md from https://github.com/google/deepdream
+# [Origina](https://github.com/google/deepdream) README.md
 
 This repository contains IPython Notebook with sample code, complementing 
 Google Research [blog post](http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html) about Neural Network art.
@@ -14,3 +18,4 @@ It'll be interesting to see what imagery people are able to generate using the d
 * [Alexander Mordvintsev](mailto:moralex@google.com)
 * [Michael Tyka](https://www.twitter.com/mtyka)
 * [Christopher Olah](mailto:colah@google.com)
+
