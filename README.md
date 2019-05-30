@@ -4,7 +4,7 @@ In Python 3: dream_py3.ipynb
 With OpenCV: dream_cv.py
 ```
 
-# [Origina](https://github.com/google/deepdream) README.md
+# [Original](https://github.com/google/deepdream) README.md
 
 This repository contains IPython Notebook with sample code, complementing 
 Google Research [blog post](http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html) about Neural Network art.
